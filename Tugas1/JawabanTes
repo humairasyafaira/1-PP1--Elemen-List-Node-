@@ -1,0 +1,15 @@
+Tes-1:
+Atribut next pada kelas Node digunakan untuk menunjukkan atau menyimpan referensi ke Node berikutnya 
+dalam linked list. Dengan atribut next, Anda dapat membuat hubungan atau relasi antara Node-node dalam
+linked list.
+
+Tes-2:
+Perintah n1.setNext(n2); digunakan untuk menambahkan relasi atau mengatur agar Node n1 menunjuk ke Node n2.
+Dengan kata lain, Node n2 dianggap sebagai Node berikutnya setelah Node n1 dalam linked list.
+
+Tes-3:
+Atribut pointer p pada Latihan-2 digunakan sebagai variabel penunjuk (iterator) yang awalnya menunjuk
+ke Node pertama (Node n1). Dalam perulangan while, pointer p digunakan untuk mengunjungi setiap Node dalam 
+linked list dan mencetak nilai Node tersebut
+
+
